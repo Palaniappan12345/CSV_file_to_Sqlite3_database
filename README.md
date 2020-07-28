@@ -8,3 +8,5 @@ In eg2 database,we have created a db file as 'sample_importing_csv_file.db' and 
 In eg3 database , a full program for a actor_score database table.
 
 I have shown a step by step concept on how to import a csv file into sqlite3 database.
+
+**I have not posted any csv file you can use any csv file and run the program.
